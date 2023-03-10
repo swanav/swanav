@@ -12,3 +12,8 @@ I am Swanav, a First Year 📚 Graduate Student at the University of Southern Ca
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+
+## My Projects at USC
+
+- *Socket Programming Project* [EE450](https://github.com/swanav/ee450-project-fall-22)
+- *Work in Progress* [EE595](https://github.com/swanav/ee595-project-spring-23)
