@@ -17,3 +17,16 @@ I am Swanav, a First Year 📚 Graduate Student at the University of Southern Ca
 
 - *Socket Programming Project* [EE450](https://github.com/swanav/ee450-project-fall-22)
 - *Machine Learning based TCP Congestion Control* [EE595](https://github.com/swanav/ee595-project-spring-23)
+
+<!--
+## Work Experience
+
+### Tesla Inc, Vehicle Software Intern
+
+### Eran Group, Sr. Firmware Engineer
+
+### Havells India Limited, Engineer
+
+### Havells India Limited, R&D Intern
+-->
+
