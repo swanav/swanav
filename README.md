@@ -5,7 +5,7 @@ I am Swanav, a *Final Year 📚 Graduate Student* at the **University of Souther
 - 😄 Pronouns: `He/Him`
 - 📫 How to reach me: `swanavsw@usc.edu`
 - 📍 Where I'm at right now: `Los Angeles, CA`
-- 🌱 I’m currently looking for Full Time opportunities starting May 2024.
+- 🔍 I’m actively 👀 for Full Time opportunities starting May 2024.
 
 <!--
 - 👯 I’m looking to collaborate on ...
