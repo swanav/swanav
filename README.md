@@ -34,11 +34,11 @@ I am Swanav, a *Final Year 📚 Graduate Student* at the **University of Souther
 |-------------|----------------|---------------------------------------------------|------------------------------|
 | Fall 2022   | [EE450][ee450] | Introduction to Computer Networks                 | Prof. Ali Zahid              |
 | Fall 2022   | [EE503][ee503] | Probability for Electrical and Computer Engineers | Prof. Ashutosh Nayyar        |
-| Spring 2022 | [EE595][ee595] | Software Design and Optimization                  | Prof. Shahin Nazarian        |
-| Spring 2022 | [EE597][ee597] | Wireless Networks                                 | Prof. Bhaskar Krishnamachari |
+| Spring 2023 | [EE595][ee595] | Software Design and Optimization                  | Prof. Shahin Nazarian        |
+| Spring 2023 | [EE597][ee597] | Wireless Networks                                 | Prof. Bhaskar Krishnamachari |
 | Fall 2023   | [EE542][ee542] | Internet and Cloud Computing                      | Prof. Young Cho              |
 | Fall 2023   | [CS402][cs402] | Operating Systems                                 | Prof. William Cheng          |
-| Spring 2023 |                |                                                   |                              |
+| Spring 2024 |                |                                                   |                              |
 
 [ee450]: https://web-app.usc.edu/ws/soc_archive/soc/term-20223/course/ee-450/index.html
 [ee503]: https://web-app.usc.edu/ws/soc_archive/soc/term-20223/course/ee-503/index.html
