@@ -22,6 +22,7 @@ I am Swanav, a *Final Year 📚 Graduate Student* at the **University of Souther
 - [CS402][cs402-project] - *Token Bucket Filter Emulator*
 - [CS402][cs402-project] - *Weenix Kernel*
   - Process Management - (Processes, Kernel Threads, Scheduler, Mutex)
+  - Virtual File System
 
 [ee450-project]: https://github.com/swanav/ee450-project-fall-22
 [ee595-project]: https://github.com/swanav/ee595-project-spring-23
