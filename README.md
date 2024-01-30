@@ -5,7 +5,6 @@ I am Swanav, a *Final Year 📚 Graduate Student* at the **University of Souther
 - 😄 Pronouns: `He/Him`
 - 📫 How to reach me: `swanavsw@usc.edu`
 - 📍 Where I'm at right now: `Los Angeles, CA`
-- 🔍 I’m actively 👀 for Full Time opportunities starting May 2024.
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -23,6 +22,7 @@ I am Swanav, a *Final Year 📚 Graduate Student* at the **University of Souther
 - [CS402][cs402-project] - *Weenix Kernel*
   - Process Management - (Processes, Kernel Threads, Scheduler, Mutex)
   - Virtual File System
+  - Virtual Memory Management
 
 [ee450-project]: https://github.com/swanav/ee450-project-fall-22
 [ee595-project]: https://github.com/swanav/ee595-project-spring-23
@@ -39,7 +39,8 @@ I am Swanav, a *Final Year 📚 Graduate Student* at the **University of Souther
 | Spring 2023 | [EE597][ee597] | Wireless Networks                                 | Prof. Bhaskar Krishnamachari |
 | Fall 2023   | [EE542][ee542] | Internet and Cloud Computing                      | Prof. Young Cho              |
 | Fall 2023   | [CS402][cs402] | Operating Systems                                 | Prof. William Cheng          |
-| Spring 2024 |                |                                                   |                              |
+| Spring 2024 | [EE538][ee538] | Computing Principles for Electrical Engineers     | Prof. Arash Saifhashemi      |
+| Spring 2024 | [EE590][ee590] | Directed Research                                 | Prof. Bhaskar Krishnamachari |
 
 [ee450]: https://web-app.usc.edu/ws/soc_archive/soc/term-20223/course/ee-450/index.html
 [ee503]: https://web-app.usc.edu/ws/soc_archive/soc/term-20223/course/ee-503/index.html
@@ -47,6 +48,8 @@ I am Swanav, a *Final Year 📚 Graduate Student* at the **University of Souther
 [ee597]: https://web-app.usc.edu/ws/soc_archive/soc/term-20231/course/ee-597/index.html
 [ee542]: https://classes.usc.edu/term-20233/course/ee-542/
 [cs402]: https://classes.usc.edu/term-20233/course/csci-402/
+[ee538]: https://classes.usc.edu/term-20241/course/ee-538/
+[ee590]: https://classes.usc.edu/term-20241/course/ee-590/
 <!--
 [ee542]: https://web-app.usc.edu/ws/soc_archive/soc/term-20233/course/ee-542/index.html
 [cs402]: https://web-app.usc.edu/ws/soc_archive/soc/term-20233/course/csci-402/index.html
